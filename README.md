@@ -406,19 +406,7 @@ ws.send(JSON.stringify({
 
 ## 📚 Additional Resources
 
-- [Go HTTP Server Documentation](https://golang.org/pkg/net/http/)
-- [WebSocket RFC 6455](https://tools.ietf.org/html/rfc6455)
-- [Go WebSocket Package](https://golang.org/x/net/websocket)
-- [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-
-## 🤝 Contributing
-
-This project is created for educational purposes. If you have suggestions for improvements or bug fixes, create issues and pull requests.
-
-## 📄 License
-
-MIT License - use freely for learning and experiments.
-
----
-
-**Happy learning HTTP protocol and web development! 🚀**
+- (https://golang.org/pkg/net/http/)
+- (https://tools.ietf.org/html/rfc6455)
+- (https://golang.org/x/net/websocket)
+- (https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
