@@ -13,8 +13,7 @@ Create an educational tool that allows you to "look under the hood" of a web ser
 ## 🚀 Quick Start
 
 ### Requirements
-- Go 1.21 or higher
-- Browser with WebSocket support
+- Go 1.21 - https://go.dev/dl/
 
 ### Installation and Launch
 
